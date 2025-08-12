@@ -1,0 +1,56 @@
+[
+  {
+    "zone": "Hay Hassani nord",
+    "bbox": {
+      "minLon": -7.68643741678,
+      "minLat": 33.5655409,
+      "maxLon": -7.66854314997,
+      "maxLat": 33.57722210167
+    }
+  },
+  {
+    "zone": "CFC",
+    "bbox": {
+      "minLon": -7.66776722918,
+      "minLat": 33.55217303459,
+      "maxLon": -7.64655654185,
+      "maxLat": 33.57036090176
+    }
+  },
+  {
+    "zone": "Hay hassani sud",
+    "bbox": {
+      "minLon": -7.68847698484,
+      "minLat": 33.55360179067,
+      "maxLon": -7.66743748498,
+      "maxLat": 33.571620861
+    }
+  },
+  {
+    "zone": "Oulfa",
+    "bbox": {
+      "minLon": -7.6884104698,
+      "minLat": 33.5443144476,
+      "maxLon": -7.66245031171,
+      "maxLat": 33.56153494925
+    }
+  },
+  {
+    "zone": "Hay salam",
+    "bbox": {
+      "minLon": -7.68403204553,
+      "minLat": 33.53895404573,
+      "maxLon": -7.65170932554,
+      "maxLat": 33.55752765978
+    }
+  },
+  {
+    "zone": "Lissasfa Nord",
+    "bbox": {
+      "minLon": -7.66805912758,
+      "minLat": 33.53911605943,
+      "maxLon": -7.64406465125,
+      "maxLat": 33.55674245703
+    }
+  }
+]

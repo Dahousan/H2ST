@@ -1,0 +1,74 @@
+[
+  {
+    "zone":"Hay hassani sud",
+    "point_origin_lat":33.571620861,
+    "point_origin_lon":-7.6685339128,
+    "speed":33,
+    "free_flow_speed":33,
+    "congestion_level":410,
+    "timestamp":"2025-08-12T01:40:41.912008"
+  },
+  {
+    "zone":"Lissasfa Nord",
+    "point_origin_lat":33.5485247,
+    "point_origin_lon":-7.6639191,
+    "speed":36,
+    "free_flow_speed":36,
+    "congestion_level":870,
+    "timestamp":"2025-08-12T01:40:43.209972"
+  },
+  {
+    "zone":"Lissasfa Nord",
+    "point_origin_lat":33.5562318144,
+    "point_origin_lon":-7.6490354051,
+    "speed":33,
+    "free_flow_speed":33,
+    "congestion_level":338,
+    "timestamp":"2025-08-12T01:40:44.560882"
+  },
+  {
+    "zone":"Hay salam",
+    "point_origin_lat":33.5441512297,
+    "point_origin_lon":-7.6840320455,
+    "speed":30,
+    "free_flow_speed":30,
+    "congestion_level":734,
+    "timestamp":"2025-08-12T01:40:45.871181"
+  },
+  {
+    "zone":"Hay Hassani nord",
+    "point_origin_lat":33.5655409,
+    "point_origin_lon":-7.6827195,
+    "speed":30,
+    "free_flow_speed":30,
+    "congestion_level":734,
+    "timestamp":"2025-08-12T01:40:47.194853"
+  },
+  {
+    "zone":"Hay Hassani nord",
+    "point_origin_lat":33.5718902443,
+    "point_origin_lon":-7.6864374168,
+    "speed":41,
+    "free_flow_speed":41,
+    "congestion_level":1043,
+    "timestamp":"2025-08-12T01:40:48.491178"
+  },
+  {
+    "zone":"Oulfa",
+    "point_origin_lat":33.5615349493,
+    "point_origin_lon":-7.6687223511,
+    "speed":36,
+    "free_flow_speed":36,
+    "congestion_level":870,
+    "timestamp":"2025-08-12T01:40:49.813292"
+  },
+  {
+    "zone":"CFC",
+    "point_origin_lat":33.5680901775,
+    "point_origin_lon":-7.6675361037,
+    "speed":25,
+    "free_flow_speed":25,
+    "congestion_level":135,
+    "timestamp":"2025-08-12T01:40:51.139872"
+  }
+]
